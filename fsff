@@ -1,0 +1,14 @@
+
+
+- (NSArray *)hotspotCompanyArr{
+    
+    return @[@"1129X3jcF14Jcoy7Np6pmoqBLrmVLg8iM7sxfruyuDHpjeNUru11",
+             @"11eGZDP7xTkPyjizwg3jDh8J4q4NZefj47fmAFcTn78KQS6ciZ5",
+             @"1183So5oXKktx56Zisz622vN7ZnR85uixRWrjmVesrLxY6aLJ5j",
+             @"1129pcgg68th1vXUjCuAEhScchBbTVpRXwQRhGX5zdomXtXmMURD",
+             @"112mHhUB3bv3P2QjDz6HVc5Mj4a6gszhpMzyoaW168pnnQNZY8qz",
+             @"11269BErAcZUERARVDjCBAHtteM3X7Edb3wTnXbwUtgN8KXtxHwM",
+             @"112nF9WA7ozMPnRHxLZzfvtxP1dHoWw5gmroqPJTR4wCdD5R9gpS",
+             @"11K9R4FtZKE7Qzg36Xr7St3Prz1WHLsVN5iDneu1FKnBt2Js2Fj"];
+    
+}
